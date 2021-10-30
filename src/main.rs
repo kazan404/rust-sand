@@ -1,4 +1,5 @@
 mod vars;
+mod calc;
 
 fn main() 
 {
